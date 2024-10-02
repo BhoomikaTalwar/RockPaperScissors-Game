@@ -8,9 +8,9 @@ Features:
 5. Command Line Interface: The game runs in the terminal or command line, making it lightweight and easy to use.
 
 Game Rules:
--Rock beats Scissors
--Scissors beats Paper
--Paper beats Rock
+1. Rock beats Scissors
+2. Scissors beats Paper
+3. Paper beats Rock
 The game announces the winner of each round based on the player’s and computer’s choices.
 
 Technologies Used:
